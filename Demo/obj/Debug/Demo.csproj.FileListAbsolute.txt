@@ -1,0 +1,13 @@
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe.config
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.exe
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\FluentNHibernate.dll
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Iesi.Collections.dll
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\NHibernate.dll
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\FluentNHibernate.pdb
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\FluentNHibernate.xml
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\Iesi.Collections.xml
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\bin\Debug\NHibernate.xml
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.exe
+c:\users\home\documents\visual studio 2013\Projects\Demo\Demo\obj\Debug\Demo.pdb
